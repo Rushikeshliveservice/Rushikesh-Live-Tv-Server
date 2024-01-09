@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV HD" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="Rushikesh Live TV",IN | Zee TV HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/66162
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN | Sony SET HD" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Rushikesh Live TV",IN | Sony SET HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/66164
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN | Star Plus FHD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="Rushikesh Live TV",IN | Star Plus HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/66208
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="Rushikesh Live TV",IN | Star Gold HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/66178
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select HD" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="Rushikesh Live TV",IN | Star Gold Select HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/66176
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Rushikesh Live TV",IN | & Pictures HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/66181
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Rushikesh Live TV",IN | ZEE CINEMA HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/206308
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX FHD" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="Rushikesh Live TV",IN: COLORS CINEPLEX HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/206310
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Rushikesh Live TV",IN | Sony Max HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/66180
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN | Star Movies FHD" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="Rushikesh Live TV",IN | Star Movies HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/66213
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN | Star Movies Select HD" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="Rushikesh Live TV",IN | Star Movies Select HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/66315
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Rushikesh Live TV",Star Sport 1 HINDI HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/109986
